@@ -41,3 +41,27 @@ This project strictly follows the **CRISP-DM** (Cross-Industry Standard Process 
 * **Data Visualization:** Identifying trends and temporal delay peaks.
 * **Modelling:** Training models (XGBoost, CatBoost, Random Forest).
 * **Prediction:** Outputting delay probability via a user-friendly Web Dashboard.
+
+## 💻 Technologies Used
+* **Machine Learning (Backend Logic):** Python, XGBoost, CatBoost, Random Forest, LSTM (Deep Learning), SMOTE, LIME.
+* **Data Processing:** Pandas, NumPy, Scikit-learn.
+* **Frontend Dashboard:** HTML5, CSS3, Vanilla JavaScript.
+* **Deployment:** GitHub Pages (Interactive UI hosting).
+
+## 🚀 Steps to Get Started
+To view and interact with the flight prediction dashboard locally on your machine:
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/](https://github.com/)[your-github-username]/flight-delay-dashboard.git
+    ```
+2.  **Navigate to the Directory:**
+    ```bash
+    cd flight-delay-dashboard
+    ```
+3.  **Run the Application:**
+    Since the dashboard is built with pure HTML/CSS/JS, no server installation is required. Simply double-click the `index.html` file to open it in your default web browser.
+4.  **Live Demo:** Alternatively, you can view the live deployed dashboard here: [Insert Your GitHub Pages Link Here]
+
+---
+*This repository contains the front-end simulation and documentation for the MBA Aviation Analytics capstone project.*
