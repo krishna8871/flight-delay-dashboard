@@ -48,15 +48,3 @@ This project strictly follows the **CRISP-DM** (Cross-Industry Standard Process 
 * **Data Processing:** Pandas, NumPy, Scikit-learn.
 * **Frontend Dashboard:** HTML5, CSS3, Vanilla JavaScript.
 * **Deployment:** GitHub Pages (Interactive UI hosting).
-
-## Steps to get started
-
-Clone the repository using:<br>
-`>> git clone https://github.com/krishna8871/flight-delay-dashboard.git`
-
-Setup the virtual environment and turn it on<br>
-`>> source env/bin/activate` (For Mac and Linux)<br>
-`>> .\env\Scripts\activate` (For Windows)
-
-Run the script<br>
-`>> python app.py`
