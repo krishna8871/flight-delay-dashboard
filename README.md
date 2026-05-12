@@ -49,20 +49,14 @@ This project strictly follows the **CRISP-DM** (Cross-Industry Standard Process 
 * **Frontend Dashboard:** HTML5, CSS3, Vanilla JavaScript.
 * **Deployment:** GitHub Pages (Interactive UI hosting).
 
-## 🚀 Steps to Get Started
-To view and interact with the flight prediction dashboard locally on your machine:
+## Steps to get started
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[your-github-username]/flight-delay-dashboard.git
-    ```
-2.  **Navigate to the Directory:**
-    ```bash
-    cd flight-delay-dashboard
-    ```
-3.  **Run the Application:**
-    Since the dashboard is built with pure HTML/CSS/JS, no server installation is required. Simply double-click the `index.html` file to open it in your default web browser.
-4.  **Live Demo:** Alternatively, you can view the live deployed dashboard here: [Insert Your GitHub Pages Link Here]
+Clone the repository using:<br>
+`>> git clone https://github.com/krishna8871/flight-delay-dashboard.git`
 
----
-*This repository contains the front-end simulation and documentation for the MBA Aviation Analytics capstone project.*
+Setup the virtual environment and turn it on<br>
+`>> source env/bin/activate` (For Mac and Linux)<br>
+`>> .\env\Scripts\activate` (For Windows)
+
+Run the script<br>
+`>> python app.py`
