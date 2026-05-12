@@ -34,7 +34,7 @@ This project strictly follows the **CRISP-DM** (Cross-Industry Standard Process 
 
 *(Below is the structural representation of our Machine Learning pipeline)*
 
-![Project Design Flowchart](https://via.placeholder.com/850x350.png?text=Unprocessed+Data+%E2%86%92+Pre-processing+%E2%86%92+Cleaning+%E2%86%92+Data+Visualization+%E2%86%92+Modelling+%E2%86%92+Prediction)
+![Project Design Flowchart](https://via.placeholder.com/850x350.png?text=...)
 
 * **Data Ingestion:** Importing and merging historical CSVs with live APIs.
 * **Pre-processing & Cleaning:** Handling missing values, one-hot encoding, and applying **SMOTE** to balance the dataset.
