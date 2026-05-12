@@ -35,7 +35,7 @@ This project strictly follows the **CRISP-DM** (Cross-Industry Standard Process 
 *(Below is the structural representation of our Machine Learning pipeline)*
 <img width="1122" height="1402" alt="FLight delay prediction ML Pipeline" src="https://github.com/user-attachments/assets/ce97f266-8281-4981-9833-effd48c81750" />
 
-![Project Design Flowchart](https://via.placeholder.com/850x350.png?text=https://kommodo.ai/i/1SXIO5UHZD1LokGxYdPM)
+![Project Design Flowchart](https://kommodo.ai/i/1SXIO5UHZD1LokGxYdPM)
 
 * **Data Ingestion:** Importing and merging historical CSVs with live APIs.
 * **Pre-processing & Cleaning:** Handling missing values, one-hot encoding, and applying **SMOTE** to balance the dataset.
